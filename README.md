@@ -18,7 +18,23 @@ Here are some of the tools and technologies I love working with:
 - **Languages**: PowerShell, Python
 - **Tools**: GitHub, Git, VSCode
 - **Networking**: Cisco
-- **Other**: Automation Anywhere
+- **Other**: Automation
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/Powershell-5391CC?style=for-the-badge&logo=powershell&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+
+
+
+
+## Contact me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresparrav/)
+
+
 
 [//]: # (## Projects)
 
