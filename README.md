@@ -22,12 +22,13 @@ Here are some of the tools and technologies I love working with:
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/Powershell-5391CC?style=for-the-badge&logo=powershell&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-
-
+![Azure](https://badgen.net/badge/icon/Azure?icon=azure&label=&color=088cd5&labelColor=088cd5&scale=1)
+![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label=&color=080c1e&labelColor=080c1e&scale=1)&nbsp;
+![PowerShell](https://badgen.net/badge/icon/PowerShell?icon=terminal&label=&color=2d75c0&labelColor=2d75c0&scale=1)
+![Python](https://img.shields.io/badge/-Python-03241B?logo=anaconda&logoColor=f1f1f1)&nbsp;
+![Terminal](https://badgen.net/badge/icon/Terminal?icon=terminal&label=&color=171313&labelColor=171313&scale=1)&nbsp;
+![Git](https://img.shields.io/badge/-Git-d66954?logo=git&logoColor=f1f1f1)&nbsp;
+![Github](https://img.shields.io/badge/-Github-171313?logo=github&logoColor=f1f1f1)&nbsp;
 
 
 ## Contact me
