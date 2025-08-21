@@ -28,7 +28,7 @@ Here are some of the tools and technologies I love working with:
 ![Python](https://img.shields.io/badge/-Python-3a6c92?logo=python&logoColor=f3bc36)&nbsp;
 ![Terminal](https://badgen.net/badge/icon/Terminal?icon=terminal&label=&color=171313&labelColor=grey&scale=1)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-d66954?logo=git&logoColor=f1f1f1)&nbsp;
-![Github](https://img.shields.io/badge/-Github-171313?logo=github&logoColor=)&nbsp;
+![Github](https://img.shields.io/badge/-Github-171313?logo=github&logoColor=f1f1f1)&nbsp;
 
 
 ## Contact me
