@@ -1,6 +1,6 @@
 ## Hi, I'm Andres Parra 👋
 
-Welcome to my GitHub! I'm a passionate computer science engineer with a love for web crawling, process automation, data engineering, and software development
+Welcome to my GitHub! llevo mas de 15 años liderando proyectos tecnológicos de alto impacto, desde la administración de infraestructuras críticas (on-premise y cloud) hasta el diseño de arquitecturas escalables en Microsoft Azure. Soy Especialista Certificado en la Nube de Microsoft, con las credenciales AZ-305 (Solutions Architect Expert), AZ-500 (Azure Security Engineer), AZ-700 (Network Engineer) y AI-102 (Azure AI), que respaldan mi capacidad para transformar desafíos técnicos en soluciones innovadoras y seguras. 
 
 ## About Me
 
