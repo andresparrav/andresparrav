@@ -1,6 +1,6 @@
 ## Hi, I'm Andres Parra 👋
 
-Welcome to my GitHub! llevo mas de 15 años liderando proyectos tecnológicos de alto impacto, desde la administración de infraestructuras críticas (on-premise y cloud) hasta el diseño de arquitecturas escalables en Microsoft Azure. Soy Especialista Certificado en la Nube de Microsoft, con las credenciales AZ-305 (Solutions Architect Expert), AZ-500 (Azure Security Engineer), AZ-700 (Network Engineer) y AI-102 (Azure AI), que respaldan mi capacidad para transformar desafíos técnicos en soluciones innovadoras y seguras. 
+Welcome to my GitHub! I have been leading high-impact technology projects for over 15 years, from managing critical infrastructure (on-premise and cloud) to designing scalable architectures in Microsoft Azure. I am a Microsoft Certified Cloud Specialist, with the AZ-305 (Solutions Architect Expert), AZ-500 (Azure Security Engineer), AZ-700 (Network Engineer), and AI-102 (Azure AI) credentials, which support my ability to transform technical challenges into innovative and secure solutions. 
 
 ## About Me
 
