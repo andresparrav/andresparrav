@@ -1,17 +1,14 @@
 name: Update README
+
 on:
   schedule:
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    name: Update this repo's README with recent activity
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    - cron: '0 */12 * * *' # Cada 12 horas
 
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: andresparrav/andresparrav@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Update README with recent activity
+        uses: andresparrav/andresparrav@main # Reemplaza con tu información
