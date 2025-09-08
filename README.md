@@ -31,9 +31,8 @@ Here are some of the tools and technologies I love working with:
 ![Github](https://img.shields.io/badge/-Github-171313?logo=github&logoColor=f1f1f1)&nbsp;
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## Contact me
 
