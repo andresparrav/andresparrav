@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: andresparrav/README@main
+      - uses: andresparrav/andresparrav@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
