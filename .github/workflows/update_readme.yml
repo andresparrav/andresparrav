@@ -15,5 +15,3 @@ jobs:
       
       - uses: Readme-Workflows/recent-activity@v2.4.1
       - uses: andresparrav/andresparrav@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
